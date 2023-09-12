@@ -56,8 +56,8 @@ Here are some ideas to get you started:
 
 ##
 
-//<div> 
-  <a href="[https://www.instagram.com/antonioalvesrodriguesjr/](https://www.instagram.com/antonioalvesrodriguesjunior/)" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<div> 
+  <a href="https://www.instagram.com/antonioalvesrodriguesjr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "driguez1268@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="[ttps://www.linkedin.com/in/antonioalvesrodriguesjunior/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
